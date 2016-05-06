@@ -4,12 +4,13 @@ This is a demonstration of a bug in vuejs when executed within a chrome kiosk ap
 
 To test:
 
-1. Open chrome://extensions/
-2. Check the Developer mode box.
-3. Click Load unpacked extension.
-4. Browse to the vuejs-chrome-example directory
-5. Click Launch
-6. Under "Inspect Views" click "application.html"
+1. `git clone https://github.com/patsplat/vuejs-chrome-example.git`
+2. Open chrome://extensions/
+3. Check the Developer mode box.
+4. Click Load unpacked extension.
+5. Browse to the vuejs-chrome-example directory
+6. Click Launch
+7. Under "Inspect Views" click "application.html"
 
 View the following error in the console:
 
