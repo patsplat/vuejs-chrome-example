@@ -28,4 +28,7 @@ Related to these lines of code:
     }
 ```
 
-For reference: https://support.google.com/chrome/a/answer/6137027?hl=en
+For reference:
+
+Content Security Policy for Chrome Apps: https://developer.chrome.com/apps/contentSecurityPolicy
+How to create a Kiosk App: https://support.google.com/chrome/a/answer/6137027?hl=en
